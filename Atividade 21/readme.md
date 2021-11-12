@@ -1,5 +1,5 @@
-Implemente um programa que tenha como entrada um número (1-7) que corresponde a um dos dias
-da semana e imprima na tela o nome do dia correspondente (domingo, segunda, ter ̧ca, quarta, quinta,
-sexta, sábado). Se o número lido n ̃ao estiver no intervalo 1-7, imprima: “N ́umero de dia não válido”. O
-programa deve permanecer executando até que o usúario tecle o numero 0. (Utilize obrigatoriamente
-teste no início).
+Um palındromo  é um numero, ou frase textual, que pode ser lido da mesma forma da esquerda para
+a direita e vice-versa. Por exemplo, cada um dos seguintes inteiros de cinco d ́ıgitos é um palíndromo:
+12321, 55555, 45554 e 11611. Escreva um programa que leia um inteiro de cinco dígitos e determine se
+ele é ou não um palındromo. [Dica: use os operadores de divisão e m ́odulo para separar o n ́umero em
+seus d ́ıgitos individuais.]
