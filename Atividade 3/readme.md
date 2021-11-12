@@ -1,0 +1,1 @@
+Escreva um programa que leia um n ́umero inteiro e positivo F e calcule o fatorial deste n ́umero.
